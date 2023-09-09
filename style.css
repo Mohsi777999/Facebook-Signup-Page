@@ -1,0 +1,156 @@
+
+
+.box1{
+    width: 425px;
+    height: 80px;
+    background-color: rgb(228, 224, 224);
+    border-bottom: 1px solid rgb(145, 144, 144);
+}
+
+.box1 h1{
+    margin-left: 20px;
+    padding-top: 9px;
+}
+
+.box1 h5{
+    margin-left: 20px;
+    margin-top: -19px
+}
+
+.parent{
+    display: flex;
+    justify-content: space-around;
+    width: 430px;
+    margin-top: 15px;
+}
+
+.firstname input{
+    height: 25px;
+    background-color:  rgb(226, 221, 221);
+    border:solid rgb(168, 166, 166) 1px;
+    border-radius: 3px;
+}
+
+.surname input{
+    height: 25px;
+    background-color:  rgb(226, 221, 221);
+    border:solid rgb(168, 166, 166) 1px;
+    border-radius: 3px;
+}
+
+.box2 input{
+    height: 25px;
+    margin-top: 10px;
+    width: 384px;
+    margin-left: 19px;
+    background-color:  rgb(226, 221, 221);
+    border:solid rgb(168, 166, 166) 1px;
+    border-radius: 3px;
+}
+
+.box3 input{
+    width: 384px;
+    height: 25px;
+    margin-left: 19px;
+    background-color: rgb(226, 221, 221);
+    border:solid rgb(168, 166, 166) 1px;
+    border-radius: 3px;
+}
+
+.box3{
+    margin-top: -9px;
+}
+
+::-webkit-input-placeholder{
+    color: rgb(49, 49, 49);
+}
+
+.date h6{
+    margin-left: 22px;
+    margin-top: -5px;
+}
+
+.parent2{
+    display: flex;
+    justify-content: space-around;
+    width: 431px;
+    margin-top: -20px;
+}
+
+.date select{
+    width: 100px;
+    height: 25px;
+}
+
+.month select{
+    width: 100px;
+    height: 25px;
+}
+.year select{
+    width: 100px;
+    height: 25px;
+}
+
+.gender h6{
+    margin-left: 22px;
+    margin-top: 11px;
+}
+
+.parent3{
+    display: flex;
+    justify-content: space-around;
+    width: 450px;
+    margin-top: -21px;
+}
+
+.para{
+    margin-left: 20px;
+    font-size: 12px;
+    width: 385px;
+    color: #302f2f;
+}
+
+.button{
+    margin-left: 128px;
+    margin-top: 23px;
+}
+
+.button input{
+    width: 171px;
+    height: 28px;
+    background-color: #2fa106;
+    color: white;
+    font-weight: 600;
+    border: 1px solid #2fa106;
+    border-radius: 4px;
+}
+
+.female{
+    border: solid rgb(168, 166, 166) 1px;
+}
+
+.male{
+   border:  solid rgb(168, 166, 166) 1px;
+}
+
+.custom{
+    border: solid rgb(168, 166, 166) 1px;
+}
+
+.main{
+   
+    margin-left: 406px;
+    width: 425px;
+    height: 470px;
+    box-shadow: 2px 8px 5px 5px #ada3a3;
+    margin-top: 100px;
+}
+
+.para p a{
+    text-decoration: none;
+}
+
+
+.main{
+    margin: 200px 700px;
+}
